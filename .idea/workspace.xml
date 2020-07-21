@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="990b585c-c65c-4216-bba6-34b4827b1832" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/.idea/Pointer-meter-identification-and-reading-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/.idea/Pointer-meter-identification-and-reading-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/Hough圆+Kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/Hough圆+Kmeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../point-meter-houghCircle/my-meter-reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/../point-meter-houghCircle/my-meter-reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/template0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/black/template.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/black/template.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/silvery/template.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/silvery/template.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/模板匹配+Hough直线.py" beforeDir="false" afterPath="$PROJECT_DIR$/模板匹配+Hough直线.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="point-meter-templateMatching" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1b2GHzNKoRH8fZ3b1PEWFmQRbd8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../python/django" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Python.模板匹配+Hough直线 (1)">
+    <configuration name="模板匹配法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kmeans指针识别" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模板匹配法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="模板匹配+Hough直线 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kmeans指针识别" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模板匹配+Hough直线.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="模板匹配+Hough直线" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kmeans指针识别" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/模板匹配+Hough直线.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.模板匹配+Hough直线 (1)" />
+        <item itemvalue="Python.模板匹配法" />
+        <item itemvalue="Python.模板匹配+Hough直线" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990b585c-c65c-4216-bba6-34b4827b1832" name="Default Changelist" comment="" />
+      <created>1587822690689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587822690689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1369" y="172" key="#Inspections" timestamp="1594048126033">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1369" y="172" key="#Inspections/0.0.1536.826/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1594048126033" />
+    <state x="834" y="192" key="FileChooserDialogImpl" timestamp="1592211588057">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="834" y="192" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1592211588057" />
+    <state width="1898" height="197" key="GridCell.Tab.0.bottom" timestamp="1594050762371">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1898" height="197" key="GridCell.Tab.0.bottom/0.0.1536.826/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1594050762371" />
+    <state width="1514" height="148" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1593659795721" />
+    <state width="1898" height="197" key="GridCell.Tab.0.center" timestamp="1594050762369">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1898" height="197" key="GridCell.Tab.0.center/0.0.1536.826/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1594050762369" />
+    <state width="1514" height="148" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1593659795721" />
+    <state width="1898" height="197" key="GridCell.Tab.0.left" timestamp="1594050762368">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1898" height="197" key="GridCell.Tab.0.left/0.0.1536.826/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1594050762368" />
+    <state width="1514" height="148" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1593659795720" />
+    <state width="1898" height="197" key="GridCell.Tab.0.right" timestamp="1594050762370">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1898" height="197" key="GridCell.Tab.0.right/0.0.1536.826/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1594050762370" />
+    <state width="1514" height="148" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1593659795721" />
+    <state width="1514" height="256" key="GridCell.Tab.1.bottom" timestamp="1592361247661">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1514" height="256" key="GridCell.Tab.1.bottom/0.0.1536.826@0.0.1536.826" timestamp="1592361247661" />
+    <state width="1514" height="256" key="GridCell.Tab.1.center" timestamp="1592361247661">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1514" height="256" key="GridCell.Tab.1.center/0.0.1536.826@0.0.1536.826" timestamp="1592361247661" />
+    <state width="1514" height="256" key="GridCell.Tab.1.left" timestamp="1592361247661">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1514" height="256" key="GridCell.Tab.1.left/0.0.1536.826@0.0.1536.826" timestamp="1592361247661" />
+    <state width="1514" height="256" key="GridCell.Tab.1.right" timestamp="1592361247661">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1514" height="256" key="GridCell.Tab.1.right/0.0.1536.826@0.0.1536.826" timestamp="1592361247661" />
+    <state x="-1791" y="62" key="SettingsEditor" timestamp="1593965276272">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1791" y="62" key="SettingsEditor/0.0.1536.826/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1593965276272" />
+    <state x="103" y="50" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1592980930327" />
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup" timestamp="1592980777158">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1592980777158" />
+  </component>
+</project>
